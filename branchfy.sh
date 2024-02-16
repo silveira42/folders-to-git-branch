@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Welcome to branchfy!"
 # https://linuxsimply.com/bash-scripting-tutorial/error-handling-and-debugging/error-handling/exit-on-error/
 # set -e makes it such that the bash stops running if any command returns anything other than 0
